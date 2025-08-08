@@ -5,7 +5,7 @@ const About = () => {
     <>
     <div className="flex flex-col items-center justify-center  py-12  w-[100%] min-h-screen about-me-custom">
       <h2 className="text-3xl font-semibold text-center mb-6 w-[50%]">
-        Hi! I’m Gulchin Ramazanova – a passionate and creative Frontend Developer.
+        Hi! I’m Gulchin Ramazanovaa – a passionate and creative Frontend Developer.
       </h2>
 
       <p className="text-lg text-gray-700 max-w-3xl text-center leading-relaxed w-[50%]">
