@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body,#root{
+    margin: 0px;
+    padding:0px;
+    height:300vh;
+    background-image: url(./images/elips.png);
+    background-size: cover ;
+    background-position: center; 
+    background-repeat: no-repeat;
+    
+}
