@@ -23,7 +23,7 @@ const About = () => {
             .
             <br />
             <br />
-            I'm constantly working on improving myself, and I truly enjoy
+            I'm constantly working on improving myself  , and I truly enjoy
             learning new technologies and applying them in real-world projects.
             Creating minimalist designs, fast interfaces, and functional UIs is
             something I care deeply about.
