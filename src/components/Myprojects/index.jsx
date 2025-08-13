@@ -4,7 +4,7 @@ import "./style.css";
 const Project = () => {
   const projects = [
     { title: "BW Calculate", url: "https://bw-calculate.vercel.app/" },
-    { title: "Last Task", url: "https://lasttask-tau.vercel.app/login" },
+    { title: "To Do List", url: "https://lasttask-tau.vercel.app/login" },
   ];
 
   return (
